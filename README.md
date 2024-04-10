@@ -45,7 +45,7 @@ pues sería redundar teniendo los 2, se tomará la fecha de publicación que es 
 
 - El campo de índice de madurez que en el archivo es "contentRating" contiene valores predeterminados de la siguiente manera:
 
-### IMAGEN  CONTENT  RATING
+### [IMAGEN  CONTENT  RATING](https://github.com/Jhonatanls/prueba-codigo/blob/main/contentRating.png)
 
 Tomando lo anterior en cuenta debemos empezar a imaginarnos las tablas que tendrá nuestro aplicativo, surgiendo para este apartado
 4 tablas o modelos principales:
@@ -57,7 +57,7 @@ Tomando lo anterior en cuenta debemos empezar a imaginarnos las tablas que tendr
 
 De este análisis sale un diagrama entidad relación de las anteriores tablas:
 
-### IMAGEN  CONTENT  RATING
+### [IMAGEN  diagrama](https://github.com/Jhonatanls/prueba-codigo/blob/main/Diagrama%20ER%20de%20base%20de%20datos%20(movie_database).png)
 
 Para la lógica que tome en cuestión de filtrar por popularidad lo hice tomando la lista rating de cada película y dividiendo entre el size de la misma, 
 así me daría un numero decimal que posteriormente podría filtrar con botones.
