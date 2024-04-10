@@ -45,7 +45,7 @@ pues sería redundar teniendo los 2, se tomará la fecha de publicación que es 
 
 - El campo de índice de madurez que en el archivo es "contentRating" contiene valores predeterminados de la siguiente manera:
 
-###[Imagen de indices de madurez](https://github.com/Jhonatanls/prueba-codigo/blob/main/contentRating.png)
+### [Imagen de indices de madurez](https://github.com/Jhonatanls/prueba-codigo/blob/main/contentRating.png)
 
 Tomando lo anterior en cuenta debemos empezar a imaginarnos las tablas que tendrá nuestro aplicativo, surgiendo para este apartado
 4 tablas o modelos principales:
