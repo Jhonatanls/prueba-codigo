@@ -99,7 +99,7 @@ También hay una carpeta para los templates de las vistas de los filtros creados
 
 El proyecto será dockerizado y subido a DuckerHub con el nombre de **jhonatan25ls/movies-database:latest**
 Se podrá descargar y ejecutar la imagen usando el cmd y los siguientes comandos
-- docker push  jhonatan25ls/movies-database:latest
+- docker pull  jhonatan25ls/movies-database:latest
 - docker run -p 8000:8000 jhonatan25ls/movies-database:latest
 - Se deberá abrir localhost:8000 y la aplicación correrá
 
