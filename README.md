@@ -62,6 +62,8 @@ De este análisis sale un diagrama entidad relación de las anteriores tablas:
 Para la lógica que tome en cuestión de filtrar por popularidad lo hice tomando la lista rating de cada película y dividiendo entre el size de la misma, 
 así me daría un numero decimal que posteriormente podría filtrar con botones.
 
+A la hora de cargar los datos del Json, lo que hice fue generar un script que recorriera todo el json, tomando cada clave y asignando uno a uno cada campo y de esa forma creando una por una cada película, en el caso de la calificación o ratings hice el tartamiento anteriormente mencionado. Le hice un tratamiento diferente a duración también y solo tomé los numeros.
+
 De esta misma forma lo hice para la duración y la fecha de publicación, filtré y generé botones para que se pudiera ver el ordenamiento
 
 
