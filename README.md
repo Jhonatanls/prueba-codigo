@@ -66,6 +66,10 @@ A la hora de cargar los datos del Json, lo que hice fue generar un script que re
 
 De esta misma forma lo hice para la duración y la fecha de publicación, filtré y generé botones para que se pudiera ver el ordenamiento
 
+En este proyecto faltó el filtro por actor y la lista de reproducción por categoría además de los tests.
+Los filtros faltantes me los imaginé de una manera muy parecida a lo que fueron los que alcancé a implementar, tomar una lista tanto de actores como de categorías, generar un lista de selección y filtrar por categoría o actor señalado, no se hizo buen manejo del tiempo y faltaron detalles por implementar.
+
+
 
 # Funcionamiento y características
 
